@@ -17,15 +17,8 @@
 
 ---
 
-## 📸 **Screenshot Preview**
-*(Optional: Add a screenshot of your portfolio)*  
-1. **Take a screenshot of your portfolio.**  
-2. **Save it inside the `assets/` folder** and name it **`screenshot.png`**.  
-3. **Update the code below** to include the screenshot:  
 
-```md
-![Portfolio Screenshot](assets/screenshot.png)
-```
+
 
 ---
 
